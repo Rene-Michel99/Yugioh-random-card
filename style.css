@@ -22,7 +22,8 @@
 .title{
     position: relative;
     font-family: monospace;
-    left:5%;
+    left:10%;
+    color:yellow;
 }
 
 .card{
@@ -46,7 +47,24 @@
 
 .get-card{
     position: relative;
-    left:30%;
+    left:25%;
+    border-radius:3%;
+    width: 50%;
+    height: 40%;
+    border:none;
+}
+
+.get-card:hover{
+    background-color: rgb(109, 0, 109);
+    color:#ffdd00;
+    font-weight: 500;
+    box-shadow: 5px 5px 5px;
+}
+
+.text-button{
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 200;
 }
 
 
