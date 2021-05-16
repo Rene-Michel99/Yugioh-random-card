@@ -11,8 +11,8 @@ function random_img(){
 
     const img = document.createElement("img");
     img.src = "./src/card"+index.toString()+".jpg";
-    img.width = "300";
-    img.height = "300";
+    img.width = "320";
+    img.height = "320";
     img.className = "card";
 
     box.appendChild(img);

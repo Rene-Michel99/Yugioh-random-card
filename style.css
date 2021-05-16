@@ -71,6 +71,6 @@
 body {
     background-image: url("./src/temple.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 900px;
 }
 
